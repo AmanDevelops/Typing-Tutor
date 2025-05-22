@@ -2,8 +2,6 @@ name: Build and Release C EXE
 
 on:
   push:
-    branches:
-      - "**"
     tags:
       - "*"
 
